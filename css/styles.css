@@ -302,7 +302,7 @@ section {
 
 .team-icon-list {
   display: flex;
-  gap: 16px;
+  gap: 24px;
   justify-content: center;
 }
 .team-icon-item {
@@ -317,7 +317,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 24px;
+
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-icon-link:hover,
@@ -465,7 +465,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: -color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-icon-link:hover,
 .footer-icon-link:focus {
